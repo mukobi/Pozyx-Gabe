@@ -1,0 +1,18 @@
+------------POZYX POSITIONING V1.1 -------------
+NOTES: 
+- No parameters required.
+
+- System will auto start configuration
+
+- System will auto start positioning
+------------POZYX POSITIONING V1.1 --------------
+
+START Ranging: 
+List size: 4
+Calibration result:
+Anchors found: 4
+Anchor IDs:  IDs: 0x605d, 0x6020, 0x604f, 0x6129
+ANCHOR,0x605d, X: 0, Y: 1669, Z: 1016
+ANCHOR,0x6020, X: 3024, Y: 5886, Z: 1535
+ANCHOR,0x604f, X: 3545, Y: 0, Z: 2595
+ANCHOR,0x6129, X: 5182, Y: 3052, Z: 198

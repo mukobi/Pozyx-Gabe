@@ -1,0 +1,5 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
+house_code/main_programs/PSUPozyx/PozyxGUI/pozyxgui/target/** filter=lfs diff=lfs merge=lfs -text
+house_code/main_programs/PSUPozyx/PozyxGUI/pozyxgui filter=lfs diff=lfs merge=lfs -text
+Pozyx-Gabe/house_code/main_programs/PSUPozyx/PozyxGUI/pozyxgui filter=lfs diff=lfs merge=lfs -text
